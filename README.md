@@ -2,8 +2,7 @@
 # PrologRPS – Intelligent Rock-Paper-Scissors in SWI-Prolog
 **Course:** CSA2001 – Fundamentals in AI and ML
 **CO2 + CO6 Mapping:** Knowledge Representation, Logic Programming, Prolog  
-**Submitted by:** Shaunak Sinha Roy | 25BEC10032 | 25th November 2025
-
+**Submitted by:** Abhishek Gorai | 25BCE10175 | 25th MARCH 2026
 A complete **intelligent Rock-Paper-Scissors game** implemented in **SWI-Prolog** demonstrating:
 - Facts, Rules, Recursion, Backtracking
 - Dynamic database (learns from past games)
